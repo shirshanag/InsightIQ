@@ -460,4 +460,4 @@ else:
                 fig.update_traces(marker_colors=colors)
             chart_box.plotly_chart(style_fig(fig), use_container_width=True)
 
-st.markdown('<div class="foot">InsightIQ · Built with LangChain, Groq, pandas, Plotly and Streamlit</div>', unsafe_allow_html=True)
+st.markdown('<div class="foot">InsightIQ · Built with LangChain, Groq, pandas, Plotly and Streamlit by Shirsha Nag</div>', unsafe_allow_html=True)
